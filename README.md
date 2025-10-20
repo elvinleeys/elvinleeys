@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungSub's%20Github!&fontSize=35" />	
+</div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Languages ✨</p>
+</div>
 
 <!--
 **elvinleeys/elvinleeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
