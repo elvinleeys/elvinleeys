@@ -5,6 +5,21 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages ✨</p>
 </div>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvinleeys&layout=compact">
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=elvinleeys&theme=vue&show_icons=true"/></a>
+</p>
+
+<div>
+	<p align="center">
+		🏆 Baekjoon solved rank 🏆
+	</p>
+	<p align="center">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=herjun802" />
+	</p>
+</div>
 
 <!--
 **elvinleeys/elvinleeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
