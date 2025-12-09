@@ -34,10 +34,10 @@
 </div>
 </br>
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvinleeys&layout=compact">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elvinleeys&layout=compact">
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=elvinleeys&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elvinleeys&theme=vue&show_icons=true"/></a>
 </p>
 
 <div>
